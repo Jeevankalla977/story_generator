@@ -46,3 +46,11 @@ Welcome to *Story Generator AI* — a beginner-friendly Python project that gene
    ```bash
    git clone https://github.com/Jeevankalla977/story_generator.git
    cd story_generator
+
+## Usage
+
+This section explains how to use the Story Generator after installing it. It includes how to run the program, input a word, and get a generated story as output.
+
+## Acknowledgements
+
+This section gives credit to the tools, libraries, communities, or individuals that inspired or supported the development of this project.
